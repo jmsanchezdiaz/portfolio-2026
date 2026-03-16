@@ -16,7 +16,7 @@ export const en = {
   },
   about: {
     title: 'About',
-    bio: "As a fullstack developer, I apply my skills in React, TypeScript and Ruby on Rails to build efficient solutions. I'm passionate about learning new technologies and continuously improving as a programmer. I recently completed my Associate Degree in Computer Science and I'm currently pursuing my B.Sc. at Universidad Nacional de Quilmes. Self-taught at heart, I'm always looking for new knowledge and technologies to grow as a developer.",
+    bio: "I'm a fullstack developer who loves building efficient solutions and working as part of a team. I'm passionate about learning and continuously improving as a programmer. I recently completed my Associate Degree in Computer Science and I'm currently pursuing my B.Sc. at Universidad Nacional de Quilmes. Self-taught at heart, I'm always looking for new knowledge and technologies to grow as a developer.",
   },
   experience: {
     title: 'Experience',

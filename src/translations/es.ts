@@ -18,7 +18,7 @@ export const es: Translations = {
   },
   about: {
     title: 'Sobre mí',
-    bio: 'Como desarrollador fullstack aplico mis habilidades en React, TypeScript y Ruby on Rails para crear soluciones eficientes. Me apasiona aprender nuevas tecnologías y mejorar constantemente mis habilidades de programación. Recientemente me recibí de Técnico en Programación Informática y actualmente continúo mi formación cursando la Licenciatura en Programación Informática en la Universidad Nacional de Quilmes. Además, soy autodidacta, siempre en búsqueda de nuevos conocimientos y tecnologías para seguir creciendo como desarrollador.',
+    bio: 'Soy desarrollador fullstack y me encanta construir soluciones eficientes y trabajar en equipo. Me apasiona aprender y mejorar constantemente como programador. Recientemente me recibí de Técnico en Programación Informática y actualmente continúo mi formación cursando la Licenciatura en Programación Informática en la Universidad Nacional de Quilmes. Autodidacta de corazón, siempre en búsqueda de nuevos conocimientos y tecnologías para seguir creciendo como desarrollador.',
   },
   experience: {
     title: 'Experiencia',
