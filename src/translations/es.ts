@@ -22,6 +22,7 @@ export const es: Translations = {
   },
   experience: {
     title: 'Experiencia',
+    years: 'años',
     jobs: [
       {
         id: '10pines',
@@ -29,6 +30,8 @@ export const es: Translations = {
         location: 'Buenos Aires, Argentina',
         role: 'Desarrollador de Software Fullstack',
         period: 'Sep 2025 – Actualidad',
+        startDate: '2025-09',
+        endDate: null,
         items: [
           'Desarrollo de funcionalidades fullstack trabajando directamente con clientes de EE.UU. en inglés.',
           'Liderazgo de épicas en frontend y backend.',
@@ -41,6 +44,8 @@ export const es: Translations = {
         location: 'Reino Unido',
         role: 'Desarrollador de Software Fullstack',
         period: 'May 2022 – Jun 2025',
+        startDate: '2022-05',
+        endDate: '2025-06',
         items: [
           'Desarrollé funcionalidades end-to-end con React, TypeScript y Ruby on Rails, manejando UI, lógica de negocio y estado global.',
           'Contribuí al desarrollo de más de 15 features en frontend y backend (servicios, modelos, controladores).',
@@ -55,6 +60,8 @@ export const es: Translations = {
         location: 'Buenos Aires, Argentina',
         role: 'Ayudante de Cátedra – POO II',
         period: 'Ago 2022 – Dic 2022',
+        startDate: '2022-08',
+        endDate: '2022-12',
         items: [
           'Dicté clases prácticas de POO y guié a estudiantes en TDD y patrones SOLID.',
           'Corregí trabajos finales con feedback técnico detallado.',

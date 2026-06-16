@@ -1,5 +1,6 @@
 import { ThemeProvider } from './contexts/ThemeContext';
 import { LanguageProvider } from './contexts/LanguageContext';
+import { ParticlesBackground } from './components/ParticlesBackground';
 import { Navbar } from './components/Navbar';
 import { Hero } from './components/Hero';
 import { About } from './components/About';
@@ -12,6 +13,7 @@ function App() {
   return (
     <ThemeProvider>
       <LanguageProvider>
+        <ParticlesBackground />
         <Navbar />
         <main>
           <Hero />

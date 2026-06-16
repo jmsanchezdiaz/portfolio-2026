@@ -20,6 +20,7 @@ export const en = {
   },
   experience: {
     title: 'Experience',
+    years: 'years',
     jobs: [
       {
         id: '10pines',
@@ -27,6 +28,8 @@ export const en = {
         location: 'Buenos Aires, Argentina',
         role: 'Fullstack Software Developer',
         period: 'Sep 2025 – Present',
+        startDate: '2025-09',
+        endDate: null,
         items: [
           'Building fullstack features collaborating directly with US clients in English.',
           'Leading epics across frontend and backend.',
@@ -39,6 +42,8 @@ export const en = {
         location: 'United Kingdom',
         role: 'Fullstack Software Developer',
         period: 'May 2022 – Jun 2025',
+        startDate: '2022-05',
+        endDate: '2025-06',
         items: [
           'Built end-to-end features with React, TypeScript and Ruby on Rails, handling UI, business logic and global state.',
           'Contributed to 15+ features across frontend and backend (services, models, controllers).',
@@ -53,6 +58,8 @@ export const en = {
         location: 'Buenos Aires, Argentina',
         role: 'Teaching Assistant – OOP II',
         period: 'Aug 2022 – Dec 2022',
+        startDate: '2022-08',
+        endDate: '2022-12',
         items: [
           'Led practical OOP sessions and guided students on TDD and SOLID principles.',
           'Reviewed final projects providing technical feedback.',
